@@ -6,6 +6,11 @@
 //  Copyright © 2016 Paerdegat. All rights reserved.
 //
 
+
+//***Download project from github link at www.pokeapi.co
+//https://github.com/phalt/pokeapi
+
+
 import UIKit
 
 class ViewController: UIViewController {
